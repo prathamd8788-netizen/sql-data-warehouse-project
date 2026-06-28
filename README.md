@@ -109,7 +109,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Prathmesh Deshpande**, . I’m an Student and passionate working to data on a mission to share knowledge and make working with data enjoyable and engaging!
+Hi, I'm " Prathmesh Deshpande " , a B.Tech AI student passionate about Data Engineering and Data Analytics. I enjoy working with SQL, Python, ETL pipelines, and data warehousing projects. I'm actively looking for a Data Engineer or Data Analyst role where I can learn, grow, and contribute to real-world data solutions.
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
